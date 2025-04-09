@@ -10,6 +10,5 @@ I hold a Bachelor's degree in Science & Technology and a Bachelor's degree in En
 ## 💡 Ongoing Projects
 - **Presentation Automation:** Improving automation of PowerPoint presentations
 - **Campaign analytics data pipeline:** Colaborating with developing a structure to record and analyze ongoing campaigns, enabling better tracking and data-driven insights
-- **OSSU Course:** Following the [Computer Science curriculum](https://github.com/ossu/computer-science) to deepen my technical foundation
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaederli&layout=compact&langs_count=16&theme=highcontrast" />
