@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Rafael Ederli
 
-🎯 **Current focus:** Data Engineering and Development
-📊 **Main Tools:** Python, SQL
-✏️ **Currently Learning:** I'm improving my skills in data architecture and development
+🎯 **Current focus:** Development and Data Engineering
+📊 **Main Tools:** SQL, Python, .NET, C#
+✏️ **Currently Learning:** I'm improving my skills in development and data architecture
 
 ## 🔍 About Me
 I hold a Bachelor's degree in Science & Technology and a Bachelor's degree in Engineering. Currently, work as a Business Intelligence Analyst, where I automate processes to optimize workflows.
